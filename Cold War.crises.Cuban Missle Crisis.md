@@ -2,7 +2,7 @@
 id: 937fec57-7083-4829-9d3c-b57b196aa957
 title: Cuban Missle Crisis
 desc: ''
-updated: 1615727859382
+updated: 1616116837274
 created: 1615712421199
 ---
 
@@ -45,7 +45,7 @@ created: 1615712421199
 
 - Kennedy inherited the plan left behind by the previous administration to attack Cuba. This plan was implemented on the Bay of Pigs on **17 April 1961**, this plan failed castatrophically that it resulted in Kennedy being forced to take responsibility and causing him to have an obsession with Cuba
 
--  On the Soviet end of the spectrum, the Cuban had asked for support and the Soviet thought placing nuclear missles was a great idea for several key reasons:
+-  On the Soviet end of the spectrum, the Cuban had asked for support and the Soviet thought placing nuclear missles was a great idea for several key reasons (Operation Anadear):
 
     1. Khrushchev wanted to protect Cuba
     2. There was a massive nuclear gap between the Soviets and the Americans with the soviet on the losing side, placing IRBM on Cuba would reduce the nuclear inferiority of the Soviet and also save the cost of building up an arsenal of ICBMs.
@@ -77,7 +77,7 @@ created: 1615712421199
 - 24th October 1962 - Russian Ships finally turned back before even meeting the limit set by the US. At the same time, the US announced that the US would invade Cuba if the missiles were not removed at once.
 - 25th October 1962 - The US began to into effect plans for an air-strike against the missile sites, to take place on 29 or 30th October.
 - 26th October 1962 - Khrushchev sent an offer to Kennedy that nuclear missiles would be withdrawn if the US promised to never invade Cuba. Furthermore, the missiles were already operational and that the Russian Commander was authorised to launch short-range missiles in self defense without consulting Moscow.
-- 27th October 1962 - Khrushchev followed up with stating that a deal must include removal of NATO missiles in Turkey. Khrushchev also suggested that this could be done via the UN. ExComm after intense discussions agreed that the second lette should be ignored and replied to the first letter on the condition the Soviet remove the missiles first. On the other hand, Robert Kennedy was meeting the Russian ambassador, Anatoly Dobrynin in secret. Robert Kennedy was instructed to tell the ambassador that the US would attack the USSR if they don't removed the missile by the 28th October, however there was also a condition of that if the missiles were removed from Cuba, the US would do so at well in Turkey but stressed that this wouldn't be part of any public deal. J.F.Kennedy knew that a removal of the missiles in Turkey needed consultations with NATO and could risk the end of NATO if it be known that the US was willing to sacrifice European security for American interest. Back at the forefront, a U2 spy plane was shot down with the pilot killed leading to US advisors recommending an assault on Cuba.
+- 27th October 1962 - Khrushchev followed up with stating that a deal must include removal of NATO missiles in Turkey. Khrushchev also suggested that this could be done via the UN. ExComm after intense discussions agreed that the second lette should be ignored and replied to the first letter on the condition the Soviet remove the missiles first otherwise known as the "Trollope ploy". On the other hand, Robert Kennedy was meeting the Russian ambassador, Anatoly Dobrynin in secret. Robert Kennedy was instructed to tell the ambassador that the US would attack the USSR if they don't removed the missile by the 28th October, however there was also a condition of that if the missiles were removed from Cuba, the US would do so at well in Turkey but stressed that this wouldn't be part of any public deal. J.F.Kennedy knew that a removal of the missiles in Turkey needed consultations with NATO and could risk the end of NATO if it be known that the US was willing to sacrifice European security for American interest. Back at the forefront, a U2 spy plane was shot down with the pilot killed leading to US advisors recommending an assault on Cuba.
 - 28th October - A deal was made and that the USSR accepted the terms the US provided through Khrushchev informing Kennedy via Radio Moscow while secretly Khrushchev agreed with the secret compromise Kennedy provided. Castro was not informed and refused UN inspection of the dismantling of the missiles. Another reason for not allowing inspection as he saw it as an infringement of sovereignty. The crisis has now ended with:
     - the removal of Soviet missiles in Cuba
     - American pledge to never invade Cuba
@@ -103,7 +103,7 @@ created: 1615712421199
 ## Perspectives on the Event
 - Orthodox historians saw that the the missiles were an intolerable provocation and that Kennedy responded due to a desrie to defend **legitimate secruity needs**, preserve NATO and show American Credibility. Not to mention that the Soviet had reply with no intention to deploy missiles on Cuba early on. The quarantine was a succesful strategy and that Kennedy was a skillful leader in times of crisis.
 - Revisionits argued that Kennedy risked a war over Cuba for domestic political gains. Confrontation would've made it possible to get the missiles out before the November elections. Kennedy also risked a revolt from the military from doing so as well. The blockade was irresponsible and illegal as it was international waters that was being blocked and made Kennedy be seen neurotic. Not to mention the US had provoked the Soviets by establishing missiles in Turkey leading the Cuban fiasco.
-- Extra, Mikhail Gorbacheb concluded that both were to blame: _"The Cuban Missile crisis reminds meof two boys fighting in the schoolyard over who has the bigger stick"_
+- Extra, Mikhail Gorbachev concluded that both were to blame: _"The Cuban Missile crisis reminds me of two boys fighting in the schoolyard over who has the bigger stick"_
 
 ## Quotes
 "The 1930s taught ws a clear lesson: aggressive conduct, if allowed to go unchecked and unchallenged ultimately leads to war. This nation is opposed to war. We are also true to our word. Our unswerving objective, therefore, must be to prevent the use of these missiles against this or any other country, and to secure their withdrawal or elimination from the Western Hemisphere." Kennedy's Quarantine Speech
