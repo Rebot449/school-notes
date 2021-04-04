@@ -2,7 +2,7 @@
 id: 937fec57-7083-4829-9d3c-b57b196aa957
 title: Cuban Missle Crisis
 desc: ''
-updated: 1616116837274
+updated: 1617524812193
 created: 1615712421199
 ---
 
@@ -45,7 +45,7 @@ created: 1615712421199
 
 - Kennedy inherited the plan left behind by the previous administration to attack Cuba. This plan was implemented on the Bay of Pigs on **17 April 1961**, this plan failed castatrophically that it resulted in Kennedy being forced to take responsibility and causing him to have an obsession with Cuba
 
--  On the Soviet end of the spectrum, the Cuban had asked for support and the Soviet thought placing nuclear missles was a great idea for several key reasons (Operation Anadear):
+-  On the Soviet end of the spectrum, the Cuban had asked for support and the Soviet thought placing nuclear missles was a great idea for several key reasons (Operation Anadyr):
 
     1. Khrushchev wanted to protect Cuba
     2. There was a massive nuclear gap between the Soviets and the Americans with the soviet on the losing side, placing IRBM on Cuba would reduce the nuclear inferiority of the Soviet and also save the cost of building up an arsenal of ICBMs.
